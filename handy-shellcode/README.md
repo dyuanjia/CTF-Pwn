@@ -55,4 +55,4 @@ root@kali:~# (python exploit.py ; cat) | /problems/handy-shellcode_0/vuln
 
 Without cat, the shell will have no input and simply exits.
 
-picoCTF{h4ndY_d4ndY_sh311c0d3_5843b402}
+`picoCTF{h4ndY_d4ndY_sh311c0d3_5843b402}`
